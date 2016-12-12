@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    	<meta charset="utf-8" />
+    	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    	<title>Data Visulization - 511A</title>
+
+        <!-- Favicon -->
+    	<link rel="shortcut icon" href="favicon.ico" />
+
+        <!-- CSS -->
+    	<link rel="stylesheet" media="screen" href="css/style.css" />
+        <link rel="stylesheet" media="screen" href="css/main.css" />
+
+
+        <!-- Javascript -->
+    	<script src="js/jquery.min.js"></script>
+    	<script src="js/jquery.appear-1.1.1.min.js"></script>
+    	<script src="js/tooltip.js"></script>    
+    	<script src="js/odds.js"></script>
+
+        <!-- D3.js JS -->
+        <script type="text/javascript" src='https://d3js.org/d3.v4.min.js'></script>
+        <!--script type="text/javascript" src="http://d3js.org/d3.v4.0.0-alpha.35.min.js"></script-->
+
+        <!-- Custom JS -->
+        <script type="text/javascript" src='graphs/directedgraph.js'></script>
+        <!--script type="text/javascript" src='graphs/parallelgraph.js'></script-->
+        
+       <style>
+        .alert {
+            padding: 20px;
+            background-color: #f44336;
+            color: white;
+        }
+
+        .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .closebtn:hover {
+            color: black;
+        }
+       </style>
+    </head>
+    <body style="background-color: #eddfd6;">
+    <div id="fb-root"></div>
+
+        <div id="site">
+            <a class="logo" href="#" title="Data Visualization 511A">
+                <span class="hidden">University of Washington - Data Visualization 511A</span>
+            </a>
+            
+            <div class="evening-sky"></div>
+            <div class="morning-sky"></div>        
+            <section class="sky">
+                <span class="hidden"></span></a>
+                <div class="site-width">
+                        <div class="alert">
+                            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                            <strong>Warning!</strong> This web page only works on Google chrome, please use Google chrome to see our visualization without any bug.
+                        </div>
+                    <header>
+                        
+                        <h1><span class="hidden">The Interactive Fan Fiction Data Visualisation Guide</span></h1>
+                        <p>As of November 2016, FanFiction.net has 1.5 million active users on the portal. Since its launch in 1998, they have written more than 6.5 million stories in aggregate. Contesting in 44 different languages, an approximate of 10 thousand fandoms are written on a daily basis. We have decided to focus on the aspect of distributed mentorship between authors on this data rich platform.</p>
+                        
+                        <p>
+                            <span><a class="cta" href="#">View the data</a></span>
+                            <span style="margin-left: 15px;"><a class="scta" href="/fanfiction/treemap.html" target="_blank">View the Stats</a></span>
+                        </p>
+                    </header>
+
+                    <h2 class="primary"><span class="hidden">Force Directed Graph</span></h2>
+                    <nav class="time vertical">
+                        <a class="prev" href="#"></a>
+                        <ul>
+                            <li class="selected"><a val="data/mostStories.json">Most Stories<span></span></a></li>                        
+                            <li><a val="data/mostReviews.json">Most Reviews<span></span></a></li>
+                            <li><a val="data/mostFollowers.json">Most Liked<span></span></a></li>
+                            <li><a val="data/mostFollowersHarryPotter.json">Harry Potter<span></span></a></li> 
+                            <li><a val="data/mostFollowersNarutoLevel1.json">Naruto<span></span></a></li>
+                            <li><a val="data/mostFollowersTwilightLevel1.json">Twilight<span></span></a></li>                        
+                        </ul>
+                        <a class="next" href="#"></a>
+                    </nav>
+                    <div class="main-tree">
+                        <div id="directed_graph"> 
+                            <div id="graph"> 
+                                <svg><!-- Directed Graph Goes Here --></svg>
+                            </div>
+                            <div id="legend">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <span class="balloon-top"></span>
+                        <ul>
+                            <li><a id="1" class="k-gas filter_selected" href="#">Fandom<span></span></a></li>
+                            <li><a id="2" class="k-bio" href="#">Category<span></span></a></li>
+                            <li><a id="3" class="k-elec" href="#">Language<span></span></a></li>
+                            <li><a id="4" class="k-pet" href="#">Rating<span></span></a></li>
+                            <li><a id="5" class="k-solid" href="#">Story Count<span></span></a></li>
+                            <li><a id="6" class="k-gas" href="#">Type<span></span></a></li>
+                        </ul>
+                    </div>
+                    <span class="key-shadow"></span>
+                </div>
+            </section>
+
+            <section class="graph">
+                <div class="top">
+                    <div class="site-width">
+                        <header>
+                            <p>Parallel coordinate garph is used to present several quantitative variables at the same time. Each attribute of an user is represented by a point on the line. Brushing technique is enabled to select one or a group of links.</p>
+                        </header>
+                        <div class="graph-chart"></div>
+                    </div>
+                     <iframe id="parallel_coord_graph"
+                            src="/fanfiction/parallelcoord.html" 
+                            style="width: 100%; 
+                                height: 620px;
+                                border-width: 0px !important;"></iframe>
+                </div>
+                <div class="bottom hidden">
+                    <div class="site-width">
+                        <div id="pg">
+                            <svg><</svg>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Section - Team -->
+            <section class="footer-detail-page" style="margin-top: 400px;">
+                <section class="wrapper-detail mt-30 team-wrapper" style="padding: 10px; margin-top: 30px;">
+                    <div style="text-align: center; height: 75px;">
+                        <img src="img/team_title.png">
+                    </div>
+                    <section class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <section class="team-member">
+                            <img src="img/team/diana.png?v=1.0" class="img-circle">
+                            <section class="team-member-name mt-10"> Diana Chenyu Zhang </section>
+                        </section>
+                    </section>
+                    <section class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <section class="team-member">
+                            <img src="img/team/khyati.png?v=1.0" class="img-circle">
+                            <section class="team-member-name mt-10"> Khyati Parekh </section> 
+                        </section>
+                    </section>
+                    <section class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <section class="team-member">
+                            <img src="img/team/niharika.jpg?v=1.0" class="img-circle">
+                            <section class="team-member-name mt-10"> Niharika Sharma </section>
+                        </section>
+                    </section>
+                    <section class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <section class="team-member">
+                            <img src="img/team/scott.jpg?v=1.0" class="img-circle">
+                            <section class="team-member-name mt-10"> Scott Sizemore </section>
+                        </section>
+                    </section>
+                </section>
+            </section>
+    	</div><!-- /#site -->
+    </body>
+</html>

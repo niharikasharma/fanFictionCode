@@ -1,0 +1,6282 @@
+[
+  {
+    "region": "Country not mentioned",
+    "key": "Afrikaans",
+    "value": 17
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Albanian",
+    "value": 13
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Arabic",
+    "value": 24
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Bulgarian",
+    "value": 17
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Catalan",
+    "value": 21
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Chinese",
+    "value": 105
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Croatian",
+    "value": 13
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Czech",
+    "value": 41
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Danish",
+    "value": 43
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Devanagari",
+    "value": 11
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Dutch",
+    "value": 315
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "English",
+    "value": 533376
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Esperanto",
+    "value": 55
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Estonian",
+    "value": 6
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Farsi",
+    "value": 8
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Filipino",
+    "value": 140
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Finnish",
+    "value": 108
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "French",
+    "value": 7713
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "German",
+    "value": 3672
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Greek",
+    "value": 29
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Hebrew",
+    "value": 38
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Hindi",
+    "value": 39
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Hungarian",
+    "value": 120
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Icelandic",
+    "value": 2
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Indonesian",
+    "value": 6431
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Italian",
+    "value": 294
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Japanese",
+    "value": 91
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Korean",
+    "value": 12
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Latin",
+    "value": 65
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Malay",
+    "value": 30
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Norwegian",
+    "value": 29
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Polish",
+    "value": 322
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Portuguese",
+    "value": 4845
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Punjabi",
+    "value": 7
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Romanian",
+    "value": 26
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Russian",
+    "value": 285
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Serbian",
+    "value": 8
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Slovak",
+    "value": 6
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Spanish",
+    "value": 20055
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Swedish",
+    "value": 233
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Thai",
+    "value": 4
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Turkish",
+    "value": 8
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Ukrainian",
+    "value": 1
+  },
+  {
+    "region": "Country not mentioned",
+    "key": "Vietnamese",
+    "value": 17
+  },
+  {
+    "region": "Afghanistan",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Afghanistan",
+    "key": "English",
+    "value": 18
+  },
+  {
+    "region": "Afghanistan",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Aland Islands",
+    "key": "Afrikaans",
+    "value": 1
+  },
+  {
+    "region": "Aland Islands",
+    "key": "English",
+    "value": 18
+  },
+  {
+    "region": "Aland Islands",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Aland Islands",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Aland Islands",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Albania",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Albania",
+    "key": "English",
+    "value": 52
+  },
+  {
+    "region": "Algeria",
+    "key": "Arabic",
+    "value": 2
+  },
+  {
+    "region": "Algeria",
+    "key": "English",
+    "value": 39
+  },
+  {
+    "region": "Algeria",
+    "key": "French",
+    "value": 45
+  },
+  {
+    "region": "Algeria",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "American Samoa",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "American Samoa",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "American Samoa",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "American Samoa",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "American Samoa",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "American Samoa",
+    "key": "Turkish",
+    "value": 1
+  },
+  {
+    "region": "Andorra",
+    "key": "Spanish",
+    "value": 8
+  },
+  {
+    "region": "Angola",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Angola",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Angola",
+    "key": "Portuguese",
+    "value": 3
+  },
+  {
+    "region": "Anguilla",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Anguilla",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "English",
+    "value": 87
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "Indonesian",
+    "value": 6
+  },
+  {
+    "region": "Anonymous Proxy",
+    "key": "Spanish",
+    "value": 9
+  },
+  {
+    "region": "Antarctica",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "English",
+    "value": 154
+  },
+  {
+    "region": "Antarctica",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Antarctica",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Antarctica",
+    "key": "Spanish",
+    "value": 10
+  },
+  {
+    "region": "Antigua and Barbuda",
+    "key": "English",
+    "value": 29
+  },
+  {
+    "region": "Argentina",
+    "key": "Arabic",
+    "value": 3
+  },
+  {
+    "region": "Argentina",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Argentina",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Argentina",
+    "key": "English",
+    "value": 1133
+  },
+  {
+    "region": "Argentina",
+    "key": "Esperanto",
+    "value": 8
+  },
+  {
+    "region": "Argentina",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Argentina",
+    "key": "French",
+    "value": 8
+  },
+  {
+    "region": "Argentina",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Argentina",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Argentina",
+    "key": "Italian",
+    "value": 4
+  },
+  {
+    "region": "Argentina",
+    "key": "Latin",
+    "value": 56
+  },
+  {
+    "region": "Argentina",
+    "key": "Portuguese",
+    "value": 11
+  },
+  {
+    "region": "Argentina",
+    "key": "Slovak",
+    "value": 2
+  },
+  {
+    "region": "Argentina",
+    "key": "Spanish",
+    "value": 7045
+  },
+  {
+    "region": "Armenia",
+    "key": "English",
+    "value": 15
+  },
+  {
+    "region": "Armenia",
+    "key": "Russian",
+    "value": 2
+  },
+  {
+    "region": "Aruba",
+    "key": "English",
+    "value": 30
+  },
+  {
+    "region": "Aruba",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Asia/Pacific Region",
+    "key": "English",
+    "value": 262
+  },
+  {
+    "region": "Asia/Pacific Region",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Asia/Pacific Region",
+    "key": "Indonesian",
+    "value": 164
+  },
+  {
+    "region": "Australia",
+    "key": "Afrikaans",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Albanian",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Chinese",
+    "value": 9
+  },
+  {
+    "region": "Australia",
+    "key": "Croatian",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Dutch",
+    "value": 4
+  },
+  {
+    "region": "Australia",
+    "key": "English",
+    "value": 35953
+  },
+  {
+    "region": "Australia",
+    "key": "Esperanto",
+    "value": 6
+  },
+  {
+    "region": "Australia",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Filipino",
+    "value": 3
+  },
+  {
+    "region": "Australia",
+    "key": "French",
+    "value": 48
+  },
+  {
+    "region": "Australia",
+    "key": "German",
+    "value": 10
+  },
+  {
+    "region": "Australia",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Hebrew",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Indonesian",
+    "value": 113
+  },
+  {
+    "region": "Australia",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Japanese",
+    "value": 6
+  },
+  {
+    "region": "Australia",
+    "key": "Korean",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Norwegian",
+    "value": 2
+  },
+  {
+    "region": "Australia",
+    "key": "Polish",
+    "value": 3
+  },
+  {
+    "region": "Australia",
+    "key": "Portuguese",
+    "value": 4
+  },
+  {
+    "region": "Australia",
+    "key": "Russian",
+    "value": 5
+  },
+  {
+    "region": "Australia",
+    "key": "Serbian",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Spanish",
+    "value": 44
+  },
+  {
+    "region": "Australia",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Australia",
+    "key": "Vietnamese",
+    "value": 4
+  },
+  {
+    "region": "Austria",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Austria",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Austria",
+    "key": "English",
+    "value": 1016
+  },
+  {
+    "region": "Austria",
+    "key": "French",
+    "value": 15
+  },
+  {
+    "region": "Austria",
+    "key": "German",
+    "value": 457
+  },
+  {
+    "region": "Austria",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Austria",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Austria",
+    "key": "Spanish",
+    "value": 11
+  },
+  {
+    "region": "Austria",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Austria",
+    "key": "Vietnamese",
+    "value": 1
+  },
+  {
+    "region": "Azerbaijan",
+    "key": "English",
+    "value": 7
+  },
+  {
+    "region": "Azerbaijan",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Bahamas",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Bahamas",
+    "key": "English",
+    "value": 186
+  },
+  {
+    "region": "Bahamas",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Bahamas",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Bahrain",
+    "key": "English",
+    "value": 73
+  },
+  {
+    "region": "Bahrain",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Bangladesh",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Bangladesh",
+    "key": "English",
+    "value": 219
+  },
+  {
+    "region": "Bangladesh",
+    "key": "Hindi",
+    "value": 3
+  },
+  {
+    "region": "Bangladesh",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Barbados",
+    "key": "English",
+    "value": 107
+  },
+  {
+    "region": "Belarus",
+    "key": "English",
+    "value": 37
+  },
+  {
+    "region": "Belarus",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Belarus",
+    "key": "Russian",
+    "value": 15
+  },
+  {
+    "region": "Belarus",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Belgium",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Belgium",
+    "key": "Dutch",
+    "value": 125
+  },
+  {
+    "region": "Belgium",
+    "key": "English",
+    "value": 1865
+  },
+  {
+    "region": "Belgium",
+    "key": "French",
+    "value": 1644
+  },
+  {
+    "region": "Belgium",
+    "key": "German",
+    "value": 5
+  },
+  {
+    "region": "Belgium",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Belgium",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Belgium",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Belgium",
+    "key": "Portuguese",
+    "value": 5
+  },
+  {
+    "region": "Belgium",
+    "key": "Spanish",
+    "value": 15
+  },
+  {
+    "region": "Belgium",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Belgium",
+    "key": "Thai",
+    "value": 1
+  },
+  {
+    "region": "Belize",
+    "key": "English",
+    "value": 28
+  },
+  {
+    "region": "Belize",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Benin",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Benin",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Bermuda",
+    "key": "English",
+    "value": 44
+  },
+  {
+    "region": "Bhutan",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Bhutan",
+    "key": "English",
+    "value": 13
+  },
+  {
+    "region": "Bolivia",
+    "key": "English",
+    "value": 30
+  },
+  {
+    "region": "Bolivia",
+    "key": "Latin",
+    "value": 6
+  },
+  {
+    "region": "Bolivia",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Bolivia",
+    "key": "Spanish",
+    "value": 220
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "key": "Croatian",
+    "value": 3
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "key": "English",
+    "value": 82
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "key": "Serbian",
+    "value": 2
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Botswana",
+    "key": "English",
+    "value": 18
+  },
+  {
+    "region": "Bouvet Island",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "English",
+    "value": 3141
+  },
+  {
+    "region": "Brazil",
+    "key": "Esperanto",
+    "value": 3
+  },
+  {
+    "region": "Brazil",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "French",
+    "value": 13
+  },
+  {
+    "region": "Brazil",
+    "key": "German",
+    "value": 7
+  },
+  {
+    "region": "Brazil",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Italian",
+    "value": 2
+  },
+  {
+    "region": "Brazil",
+    "key": "Japanese",
+    "value": 7
+  },
+  {
+    "region": "Brazil",
+    "key": "Latin",
+    "value": 5
+  },
+  {
+    "region": "Brazil",
+    "key": "Polish",
+    "value": 2
+  },
+  {
+    "region": "Brazil",
+    "key": "Portuguese",
+    "value": 10852
+  },
+  {
+    "region": "Brazil",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Brazil",
+    "key": "Spanish",
+    "value": 583
+  },
+  {
+    "region": "Brazil",
+    "key": "Swedish",
+    "value": 3
+  },
+  {
+    "region": "Brazil",
+    "key": "Thai",
+    "value": 1
+  },
+  {
+    "region": "British Indian Ocean Territory",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Brunei Darussalam",
+    "key": "English",
+    "value": 219
+  },
+  {
+    "region": "Brunei Darussalam",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Brunei Darussalam",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Bulgaria",
+    "key": "Bulgarian",
+    "value": 39
+  },
+  {
+    "region": "Bulgaria",
+    "key": "English",
+    "value": 612
+  },
+  {
+    "region": "Bulgaria",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Bulgaria",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Bulgaria",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Bulgaria",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Bulgaria",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Burkina Faso",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Burundi",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Cambodia",
+    "key": "English",
+    "value": 49
+  },
+  {
+    "region": "Cambodia",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Cambodia",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Cameroon",
+    "key": "English",
+    "value": 10
+  },
+  {
+    "region": "Cameroon",
+    "key": "French",
+    "value": 5
+  },
+  {
+    "region": "Canada",
+    "key": "Afrikaans",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Albanian",
+    "value": 4
+  },
+  {
+    "region": "Canada",
+    "key": "Arabic",
+    "value": 6
+  },
+  {
+    "region": "Canada",
+    "key": "Bulgarian",
+    "value": 5
+  },
+  {
+    "region": "Canada",
+    "key": "Catalan",
+    "value": 4
+  },
+  {
+    "region": "Canada",
+    "key": "Chinese",
+    "value": 13
+  },
+  {
+    "region": "Canada",
+    "key": "Croatian",
+    "value": 2
+  },
+  {
+    "region": "Canada",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Devanagari",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Dutch",
+    "value": 4
+  },
+  {
+    "region": "Canada",
+    "key": "English",
+    "value": 53011
+  },
+  {
+    "region": "Canada",
+    "key": "Esperanto",
+    "value": 6
+  },
+  {
+    "region": "Canada",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Farsi",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Filipino",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "French",
+    "value": 2491
+  },
+  {
+    "region": "Canada",
+    "key": "German",
+    "value": 14
+  },
+  {
+    "region": "Canada",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Indonesian",
+    "value": 15
+  },
+  {
+    "region": "Canada",
+    "key": "Italian",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Japanese",
+    "value": 9
+  },
+  {
+    "region": "Canada",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Norwegian",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Polish",
+    "value": 3
+  },
+  {
+    "region": "Canada",
+    "key": "Portuguese",
+    "value": 15
+  },
+  {
+    "region": "Canada",
+    "key": "Romanian",
+    "value": 2
+  },
+  {
+    "region": "Canada",
+    "key": "Russian",
+    "value": 10
+  },
+  {
+    "region": "Canada",
+    "key": "Spanish",
+    "value": 228
+  },
+  {
+    "region": "Canada",
+    "key": "Swedish",
+    "value": 2
+  },
+  {
+    "region": "Canada",
+    "key": "Thai",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Turkish",
+    "value": 1
+  },
+  {
+    "region": "Canada",
+    "key": "Vietnamese",
+    "value": 2
+  },
+  {
+    "region": "Cape Verde",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Cayman Islands",
+    "key": "English",
+    "value": 43
+  },
+  {
+    "region": "Cayman Islands",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Bulgarian",
+    "value": 2
+  },
+  {
+    "region": "Chile",
+    "key": "Catalan",
+    "value": 3
+  },
+  {
+    "region": "Chile",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "English",
+    "value": 612
+  },
+  {
+    "region": "Chile",
+    "key": "Esperanto",
+    "value": 5
+  },
+  {
+    "region": "Chile",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Chile",
+    "key": "German",
+    "value": 4
+  },
+  {
+    "region": "Chile",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Japanese",
+    "value": 3
+  },
+  {
+    "region": "Chile",
+    "key": "Latin",
+    "value": 18
+  },
+  {
+    "region": "Chile",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Chile",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Romanian",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Chile",
+    "key": "Spanish",
+    "value": 7564
+  },
+  {
+    "region": "Chile",
+    "key": "Ukrainian",
+    "value": 1
+  },
+  {
+    "region": "China",
+    "key": "Afrikaans",
+    "value": 3
+  },
+  {
+    "region": "China",
+    "key": "Albanian",
+    "value": 2
+  },
+  {
+    "region": "China",
+    "key": "Arabic",
+    "value": 2
+  },
+  {
+    "region": "China",
+    "key": "Chinese",
+    "value": 125
+  },
+  {
+    "region": "China",
+    "key": "English",
+    "value": 948
+  },
+  {
+    "region": "China",
+    "key": "French",
+    "value": 9
+  },
+  {
+    "region": "China",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "China",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "China",
+    "key": "Indonesian",
+    "value": 12
+  },
+  {
+    "region": "China",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "China",
+    "key": "Japanese",
+    "value": 2
+  },
+  {
+    "region": "China",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "China",
+    "key": "Spanish",
+    "value": 16
+  },
+  {
+    "region": "China",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Christmas Island",
+    "key": "English",
+    "value": 15
+  },
+  {
+    "region": "Cocos (Keeling) Islands",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Colombia",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Colombia",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Colombia",
+    "key": "English",
+    "value": 291
+  },
+  {
+    "region": "Colombia",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Colombia",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Colombia",
+    "key": "Italian",
+    "value": 2
+  },
+  {
+    "region": "Colombia",
+    "key": "Latin",
+    "value": 18
+  },
+  {
+    "region": "Colombia",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Colombia",
+    "key": "Slovak",
+    "value": 3
+  },
+  {
+    "region": "Colombia",
+    "key": "Spanish",
+    "value": 2215
+  },
+  {
+    "region": "Comoros",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Congo",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Congo The Democratic Republic of the",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Congo The Democratic Republic of the",
+    "key": "French",
+    "value": 4
+  },
+  {
+    "region": "Cook Islands",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Cook",
+    "key": "",
+    "value": ""
+  },
+  {
+    "region": "Islands",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Costa Rica",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Costa Rica",
+    "key": "English",
+    "value": 203
+  },
+  {
+    "region": "Costa Rica",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Costa Rica",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Costa Rica",
+    "key": "Latin",
+    "value": 4
+  },
+  {
+    "region": "Costa Rica",
+    "key": "Spanish",
+    "value": 541
+  },
+  {
+    "region": "Cote D",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Cote D",
+    "key": "French",
+    "value": 12
+  },
+  {
+    "region": "Croatia",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Croatia",
+    "key": "Croatian",
+    "value": 14
+  },
+  {
+    "region": "Croatia",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Croatia",
+    "key": "English",
+    "value": 475
+  },
+  {
+    "region": "Croatia",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Croatia",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Croatia",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Cuba",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "Cuba",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Cuba",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Cuba",
+    "key": "Spanish",
+    "value": 17
+  },
+  {
+    "region": "Cyprus",
+    "key": "English",
+    "value": 122
+  },
+  {
+    "region": "Cyprus",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Cyprus",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Cyprus",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Cyprus",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Cyprus",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Cyprus",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Czech",
+    "value": 212
+  },
+  {
+    "region": "Czech Revar",
+    "key": "English",
+    "value": 600
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Czech Revar",
+    "key": "French",
+    "value": 8
+  },
+  {
+    "region": "Czech Revar",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Russian",
+    "value": 5
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Slovak",
+    "value": 2
+  },
+  {
+    "region": "Czech Revar",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "Czech",
+    "value": 2
+  },
+  {
+    "region": "Denmark",
+    "key": "Danish",
+    "value": 88
+  },
+  {
+    "region": "Denmark",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "English",
+    "value": 2078
+  },
+  {
+    "region": "Denmark",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "French",
+    "value": 4
+  },
+  {
+    "region": "Denmark",
+    "key": "German",
+    "value": 8
+  },
+  {
+    "region": "Denmark",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "Polish",
+    "value": 4
+  },
+  {
+    "region": "Denmark",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Denmark",
+    "key": "Spanish",
+    "value": 7
+  },
+  {
+    "region": "Denmark",
+    "key": "Swedish",
+    "value": 3
+  },
+  {
+    "region": "Djibouti",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Djibouti",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Dominica",
+    "key": "English",
+    "value": 22
+  },
+  {
+    "region": "Dominican Revar",
+    "key": "English",
+    "value": 157
+  },
+  {
+    "region": "Dominican Revar",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Dominican Revar",
+    "key": "Latin",
+    "value": 3
+  },
+  {
+    "region": "Dominican Revar",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Dominican Revar",
+    "key": "Spanish",
+    "value": 389
+  },
+  {
+    "region": "East Timor",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Ecuador",
+    "key": "English",
+    "value": 122
+  },
+  {
+    "region": "Ecuador",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Ecuador",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Ecuador",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Ecuador",
+    "key": "Latin",
+    "value": 7
+  },
+  {
+    "region": "Ecuador",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Ecuador",
+    "key": "Spanish",
+    "value": 819
+  },
+  {
+    "region": "Ecuador",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Egypt",
+    "key": "Arabic",
+    "value": 3
+  },
+  {
+    "region": "Egypt",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Egypt",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Egypt",
+    "key": "English",
+    "value": 260
+  },
+  {
+    "region": "Egypt",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Egypt",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Egypt",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "El Salvador",
+    "key": "English",
+    "value": 63
+  },
+  {
+    "region": "El Salvador",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "El Salvador",
+    "key": "Latin",
+    "value": 2
+  },
+  {
+    "region": "El Salvador",
+    "key": "Spanish",
+    "value": 409
+  },
+  {
+    "region": "Estonia",
+    "key": "English",
+    "value": 272
+  },
+  {
+    "region": "Estonia",
+    "key": "Estonian",
+    "value": 3
+  },
+  {
+    "region": "Estonia",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Estonia",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "Estonia",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Estonia",
+    "key": "Russian",
+    "value": 2
+  },
+  {
+    "region": "Estonia",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Ethiopia",
+    "key": "English",
+    "value": 11
+  },
+  {
+    "region": "Europe",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Europe",
+    "key": "English",
+    "value": 289
+  },
+  {
+    "region": "Europe",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Europe",
+    "key": "French",
+    "value": 15
+  },
+  {
+    "region": "Europe",
+    "key": "German",
+    "value": 10
+  },
+  {
+    "region": "Europe",
+    "key": "Hebrew",
+    "value": 2
+  },
+  {
+    "region": "Europe",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Europe",
+    "key": "Indonesian",
+    "value": 6
+  },
+  {
+    "region": "Europe",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Europe",
+    "key": "Polish",
+    "value": 8
+  },
+  {
+    "region": "Europe",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Europe",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Europe",
+    "key": "Spanish",
+    "value": 18
+  },
+  {
+    "region": "Falkland Islands (Malvinas)",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "Falkland Islands (Malvinas)",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Faroe Islands",
+    "key": "English",
+    "value": 19
+  },
+  {
+    "region": "Faroe Islands",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Fiji",
+    "key": "English",
+    "value": 41
+  },
+  {
+    "region": "Fiji",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "English",
+    "value": 1943
+  },
+  {
+    "region": "Finland",
+    "key": "Esperanto",
+    "value": 2
+  },
+  {
+    "region": "Finland",
+    "key": "Finnish",
+    "value": 323
+  },
+  {
+    "region": "Finland",
+    "key": "French",
+    "value": 8
+  },
+  {
+    "region": "Finland",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Finland",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Finland",
+    "key": "Spanish",
+    "value": 6
+  },
+  {
+    "region": "Finland",
+    "key": "Swedish",
+    "value": 15
+  },
+  {
+    "region": "France",
+    "key": "Afrikaans",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Albanian",
+    "value": 3
+  },
+  {
+    "region": "France",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Dutch",
+    "value": 3
+  },
+  {
+    "region": "France",
+    "key": "English",
+    "value": 3704
+  },
+  {
+    "region": "France",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Farsi",
+    "value": 9
+  },
+  {
+    "region": "France",
+    "key": "Filipino",
+    "value": 2
+  },
+  {
+    "region": "France",
+    "key": "Finnish",
+    "value": 8
+  },
+  {
+    "region": "France",
+    "key": "French",
+    "value": 24775
+  },
+  {
+    "region": "France",
+    "key": "German",
+    "value": 22
+  },
+  {
+    "region": "France",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Icelandic",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Indonesian",
+    "value": 49
+  },
+  {
+    "region": "France",
+    "key": "Italian",
+    "value": 12
+  },
+  {
+    "region": "France",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Polish",
+    "value": 5
+  },
+  {
+    "region": "France",
+    "key": "Portuguese",
+    "value": 12
+  },
+  {
+    "region": "France",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Russian",
+    "value": 3
+  },
+  {
+    "region": "France",
+    "key": "Spanish",
+    "value": 125
+  },
+  {
+    "region": "France",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Ukrainian",
+    "value": 1
+  },
+  {
+    "region": "France",
+    "key": "Vietnamese",
+    "value": 3
+  },
+  {
+    "region": "French Polynesia",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "French Polynesia",
+    "key": "French",
+    "value": 28
+  },
+  {
+    "region": "French Guiana",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "French Guiana",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "French Southern Territories",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "French Southern Territories",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Gabon",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Gabon",
+    "key": "French",
+    "value": 6
+  },
+  {
+    "region": "Gambia",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Georgia",
+    "key": "English",
+    "value": 58
+  },
+  {
+    "region": "Georgia",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Albanian",
+    "value": 4
+  },
+  {
+    "region": "Germany",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Danish",
+    "value": 2
+  },
+  {
+    "region": "Germany",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Dutch",
+    "value": 5
+  },
+  {
+    "region": "Germany",
+    "key": "English",
+    "value": 7848
+  },
+  {
+    "region": "Germany",
+    "key": "Esperanto",
+    "value": 2
+  },
+  {
+    "region": "Germany",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "French",
+    "value": 73
+  },
+  {
+    "region": "Germany",
+    "key": "German",
+    "value": 4747
+  },
+  {
+    "region": "Germany",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Hungarian",
+    "value": 5
+  },
+  {
+    "region": "Germany",
+    "key": "Indonesian",
+    "value": 33
+  },
+  {
+    "region": "Germany",
+    "key": "Italian",
+    "value": 4
+  },
+  {
+    "region": "Germany",
+    "key": "Japanese",
+    "value": 3
+  },
+  {
+    "region": "Germany",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Germany",
+    "key": "Polish",
+    "value": 8
+  },
+  {
+    "region": "Germany",
+    "key": "Portuguese",
+    "value": 10
+  },
+  {
+    "region": "Germany",
+    "key": "Russian",
+    "value": 11
+  },
+  {
+    "region": "Germany",
+    "key": "Spanish",
+    "value": 93
+  },
+  {
+    "region": "Germany",
+    "key": "Turkish",
+    "value": 1
+  },
+  {
+    "region": "Ghana",
+    "key": "English",
+    "value": 59
+  },
+  {
+    "region": "Gibraltar",
+    "key": "English",
+    "value": 20
+  },
+  {
+    "region": "Greece",
+    "key": "English",
+    "value": 1058
+  },
+  {
+    "region": "Greece",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Greece",
+    "key": "French",
+    "value": 6
+  },
+  {
+    "region": "Greece",
+    "key": "Greek",
+    "value": 74
+  },
+  {
+    "region": "Greece",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Greece",
+    "key": "Spanish",
+    "value": 5
+  },
+  {
+    "region": "Greenland",
+    "key": "English",
+    "value": 13
+  },
+  {
+    "region": "Greenland",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Grenada",
+    "key": "English",
+    "value": 22
+  },
+  {
+    "region": "Guadeloupe",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Guadeloupe",
+    "key": "French",
+    "value": 29
+  },
+  {
+    "region": "Guam",
+    "key": "English",
+    "value": 207
+  },
+  {
+    "region": "Guatemala",
+    "key": "English",
+    "value": 117
+  },
+  {
+    "region": "Guatemala",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Guatemala",
+    "key": "Latin",
+    "value": 4
+  },
+  {
+    "region": "Guatemala",
+    "key": "Spanish",
+    "value": 410
+  },
+  {
+    "region": "Guernsey",
+    "key": "English",
+    "value": 24
+  },
+  {
+    "region": "Guernsey",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Guyana",
+    "key": "English",
+    "value": 44
+  },
+  {
+    "region": "Guyana",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Haiti",
+    "key": "English",
+    "value": 15
+  },
+  {
+    "region": "Haiti",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Heard Island and McDonald Islands",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Honduras",
+    "key": "English",
+    "value": 97
+  },
+  {
+    "region": "Honduras",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Honduras",
+    "key": "Spanish",
+    "value": 185
+  },
+  {
+    "region": "Hong Kong",
+    "key": "Chinese",
+    "value": 14
+  },
+  {
+    "region": "Hong Kong",
+    "key": "English",
+    "value": 1188
+  },
+  {
+    "region": "Hong Kong",
+    "key": "Filipino",
+    "value": 2
+  },
+  {
+    "region": "Hong Kong",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Hong Kong",
+    "key": "Indonesian",
+    "value": 18
+  },
+  {
+    "region": "Hong Kong",
+    "key": "Malay",
+    "value": 2
+  },
+  {
+    "region": "Hong Kong",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Hungary",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Hungary",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Hungary",
+    "key": "English",
+    "value": 656
+  },
+  {
+    "region": "Hungary",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Hungary",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Hungary",
+    "key": "German",
+    "value": 4
+  },
+  {
+    "region": "Hungary",
+    "key": "Hungarian",
+    "value": 499
+  },
+  {
+    "region": "Hungary",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Hungary",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Hungary",
+    "key": "Spanish",
+    "value": 4
+  },
+  {
+    "region": "Iceland",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "English",
+    "value": 570
+  },
+  {
+    "region": "Iceland",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "French",
+    "value": 30
+  },
+  {
+    "region": "Iceland",
+    "key": "German",
+    "value": 9
+  },
+  {
+    "region": "Iceland",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "Hungarian",
+    "value": 3
+  },
+  {
+    "region": "Iceland",
+    "key": "Icelandic",
+    "value": 2
+  },
+  {
+    "region": "Iceland",
+    "key": "Indonesian",
+    "value": 892
+  },
+  {
+    "region": "Iceland",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "Polish",
+    "value": 5
+  },
+  {
+    "region": "Iceland",
+    "key": "Portuguese",
+    "value": 5
+  },
+  {
+    "region": "Iceland",
+    "key": "Punjabi",
+    "value": 2
+  },
+  {
+    "region": "Iceland",
+    "key": "Russian",
+    "value": 4
+  },
+  {
+    "region": "Iceland",
+    "key": "Spanish",
+    "value": 48
+  },
+  {
+    "region": "Iceland",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "Turkish",
+    "value": 1
+  },
+  {
+    "region": "Iceland",
+    "key": "Vietnamese",
+    "value": 1
+  },
+  {
+    "region": "India",
+    "key": "Devanagari",
+    "value": 4
+  },
+  {
+    "region": "India",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "India",
+    "key": "English",
+    "value": 3641
+  },
+  {
+    "region": "India",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "India",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "India",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "India",
+    "key": "Hindi",
+    "value": 31
+  },
+  {
+    "region": "India",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "India",
+    "key": "Spanish",
+    "value": 5
+  },
+  {
+    "region": "Indonesia",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Chinese",
+    "value": 3
+  },
+  {
+    "region": "Indonesia",
+    "key": "Croatian",
+    "value": 2
+  },
+  {
+    "region": "Indonesia",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "English",
+    "value": 3621
+  },
+  {
+    "region": "Indonesia",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Indonesia",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Icelandic",
+    "value": 6
+  },
+  {
+    "region": "Indonesia",
+    "key": "Indonesian",
+    "value": 16064
+  },
+  {
+    "region": "Indonesia",
+    "key": "Italian",
+    "value": 5
+  },
+  {
+    "region": "Indonesia",
+    "key": "Japanese",
+    "value": 9
+  },
+  {
+    "region": "Indonesia",
+    "key": "Korean",
+    "value": 4
+  },
+  {
+    "region": "Indonesia",
+    "key": "Malay",
+    "value": 10
+  },
+  {
+    "region": "Indonesia",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "Indonesia",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Iran Islamic Republic of",
+    "key": "English",
+    "value": 42
+  },
+  {
+    "region": "Iraq",
+    "key": "English",
+    "value": 30
+  },
+  {
+    "region": "Ireland",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Ireland",
+    "key": "English",
+    "value": 4069
+  },
+  {
+    "region": "Ireland",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Ireland",
+    "key": "French",
+    "value": 25
+  },
+  {
+    "region": "Ireland",
+    "key": "German",
+    "value": 9
+  },
+  {
+    "region": "Ireland",
+    "key": "Hungarian",
+    "value": 2
+  },
+  {
+    "region": "Ireland",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Ireland",
+    "key": "Italian",
+    "value": 3
+  },
+  {
+    "region": "Ireland",
+    "key": "Polish",
+    "value": 3
+  },
+  {
+    "region": "Ireland",
+    "key": "Portuguese",
+    "value": 8
+  },
+  {
+    "region": "Ireland",
+    "key": "Spanish",
+    "value": 20
+  },
+  {
+    "region": "Isle of Man",
+    "key": "English",
+    "value": 62
+  },
+  {
+    "region": "Isle of Man",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "Isle of Man",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Isle of Man",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Israel",
+    "key": "English",
+    "value": 861
+  },
+  {
+    "region": "Israel",
+    "key": "French",
+    "value": 5
+  },
+  {
+    "region": "Israel",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "Israel",
+    "key": "Hebrew",
+    "value": 44
+  },
+  {
+    "region": "Israel",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Israel",
+    "key": "Russian",
+    "value": 5
+  },
+  {
+    "region": "Israel",
+    "key": "Spanish",
+    "value": 4
+  },
+  {
+    "region": "Italy",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Italy",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Italy",
+    "key": "English",
+    "value": 1980
+  },
+  {
+    "region": "Italy",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Italy",
+    "key": "French",
+    "value": 46
+  },
+  {
+    "region": "Italy",
+    "key": "German",
+    "value": 11
+  },
+  {
+    "region": "Italy",
+    "key": "Greek",
+    "value": 1
+  },
+  {
+    "region": "Italy",
+    "key": "Indonesian",
+    "value": 5
+  },
+  {
+    "region": "Italy",
+    "key": "Italian",
+    "value": 640
+  },
+  {
+    "region": "Italy",
+    "key": "Portuguese",
+    "value": 13
+  },
+  {
+    "region": "Italy",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Italy",
+    "key": "Spanish",
+    "value": 61
+  },
+  {
+    "region": "Jamaica",
+    "key": "English",
+    "value": 337
+  },
+  {
+    "region": "Jamaica",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Jamaica",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "English",
+    "value": 1817
+  },
+  {
+    "region": "Japan",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "French",
+    "value": 48
+  },
+  {
+    "region": "Japan",
+    "key": "German",
+    "value": 9
+  },
+  {
+    "region": "Japan",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Indonesian",
+    "value": 95
+  },
+  {
+    "region": "Japan",
+    "key": "Japanese",
+    "value": 25
+  },
+  {
+    "region": "Japan",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Japan",
+    "key": "Portuguese",
+    "value": 26
+  },
+  {
+    "region": "Japan",
+    "key": "Spanish",
+    "value": 53
+  },
+  {
+    "region": "Jersey",
+    "key": "English",
+    "value": 46
+  },
+  {
+    "region": "Jersey",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Jordan",
+    "key": "English",
+    "value": 99
+  },
+  {
+    "region": "Kazakstan",
+    "key": "English",
+    "value": 30
+  },
+  {
+    "region": "Kazakstan",
+    "key": "Russian",
+    "value": 8
+  },
+  {
+    "region": "Kenya",
+    "key": "English",
+    "value": 56
+  },
+  {
+    "region": "Kenya",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Korea",
+    "key": "Democratic",
+    "value": ""
+  },
+  {
+    "region": "People",
+    "key": "English",
+    "value": 13
+  },
+  {
+    "region": "Korea",
+    "key": "Democratic",
+    "value": ""
+  },
+  {
+    "region": "People",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Bulgarian",
+    "value": 2
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "English",
+    "value": 783
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Indonesian",
+    "value": 37
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Korean",
+    "value": 11
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Romanian",
+    "value": 1
+  },
+  {
+    "region": "Korea Republic of",
+    "key": "Spanish",
+    "value": 10
+  },
+  {
+    "region": "Kuwait",
+    "key": "English",
+    "value": 145
+  },
+  {
+    "region": "Kyrgyzstan",
+    "key": "English",
+    "value": 13
+  },
+  {
+    "region": "Lao People",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Latvia",
+    "key": "English",
+    "value": 189
+  },
+  {
+    "region": "Latvia",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Latvia",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Latvia",
+    "key": "Russian",
+    "value": 4
+  },
+  {
+    "region": "Lebanon",
+    "key": "English",
+    "value": 132
+  },
+  {
+    "region": "Lebanon",
+    "key": "French",
+    "value": 10
+  },
+  {
+    "region": "Lesotho",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Liberia",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Liberia",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Libyan Arab Jamahiriya",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Liechtenstein",
+    "key": "English",
+    "value": 12
+  },
+  {
+    "region": "Liechtenstein",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Lithuania",
+    "key": "English",
+    "value": 277
+  },
+  {
+    "region": "Lithuania",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Lithuania",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Lithuania",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Lithuania",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Lithuania",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Luxembourg",
+    "key": "English",
+    "value": 74
+  },
+  {
+    "region": "Luxembourg",
+    "key": "French",
+    "value": 21
+  },
+  {
+    "region": "Luxembourg",
+    "key": "German",
+    "value": 17
+  },
+  {
+    "region": "Luxembourg",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Luxembourg",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Luxembourg",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Macau",
+    "key": "English",
+    "value": 19
+  },
+  {
+    "region": "Macedonia",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Macedonia",
+    "key": "English",
+    "value": 57
+  },
+  {
+    "region": "Macedonia",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Madagascar",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "Madagascar",
+    "key": "French",
+    "value": 8
+  },
+  {
+    "region": "Malawi",
+    "key": "English",
+    "value": 10
+  },
+  {
+    "region": "Malaysia",
+    "key": "Chinese",
+    "value": 16
+  },
+  {
+    "region": "Malaysia",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Malaysia",
+    "key": "English",
+    "value": 3359
+  },
+  {
+    "region": "Malaysia",
+    "key": "French",
+    "value": 4
+  },
+  {
+    "region": "Malaysia",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Malaysia",
+    "key": "Hindi",
+    "value": 3
+  },
+  {
+    "region": "Malaysia",
+    "key": "Indonesian",
+    "value": 39
+  },
+  {
+    "region": "Malaysia",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "Malaysia",
+    "key": "Malay",
+    "value": 35
+  },
+  {
+    "region": "Malaysia",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Maldives",
+    "key": "English",
+    "value": 52
+  },
+  {
+    "region": "Maldives",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Maldives",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Mali",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Mali",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Malta",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Malta",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Malta",
+    "key": "English",
+    "value": 211
+  },
+  {
+    "region": "Malta",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Marshall Islands",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Martinique",
+    "key": "French",
+    "value": 13
+  },
+  {
+    "region": "Mauritius",
+    "key": "English",
+    "value": 60
+  },
+  {
+    "region": "Mauritius",
+    "key": "French",
+    "value": 11
+  },
+  {
+    "region": "Mayotte",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Mayotte",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Afrikaans",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Albanian",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Bulgarian",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Catalan",
+    "value": 8
+  },
+  {
+    "region": "Mexico",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Dutch",
+    "value": 4
+  },
+  {
+    "region": "Mexico",
+    "key": "English",
+    "value": 2877
+  },
+  {
+    "region": "Mexico",
+    "key": "Esperanto",
+    "value": 22
+  },
+  {
+    "region": "Mexico",
+    "key": "Estonian",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "French",
+    "value": 9
+  },
+  {
+    "region": "Mexico",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Japanese",
+    "value": 3
+  },
+  {
+    "region": "Mexico",
+    "key": "Latin",
+    "value": 138
+  },
+  {
+    "region": "Mexico",
+    "key": "Malay",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Portuguese",
+    "value": 16
+  },
+  {
+    "region": "Mexico",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Mexico",
+    "key": "Serbian",
+    "value": 2
+  },
+  {
+    "region": "Mexico",
+    "key": "Slovak",
+    "value": 5
+  },
+  {
+    "region": "Mexico",
+    "key": "Spanish",
+    "value": 20156
+  },
+  {
+    "region": "Mexico",
+    "key": "Swedish",
+    "value": 5
+  },
+  {
+    "region": "Micronesia Federated States of",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "Moldova Revar of",
+    "key": "English",
+    "value": 15
+  },
+  {
+    "region": "Moldova Revar of",
+    "key": "Romanian",
+    "value": 1
+  },
+  {
+    "region": "Moldova Revar of",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Monaco",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Monaco",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Monaco",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Mongolia",
+    "key": "English",
+    "value": 35
+  },
+  {
+    "region": "Mongolia",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Mongolia",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Morocco",
+    "key": "English",
+    "value": 68
+  },
+  {
+    "region": "Morocco",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Morocco",
+    "key": "French",
+    "value": 115
+  },
+  {
+    "region": "Morocco",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Mozambique",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Mozambique",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Myanmar",
+    "key": "English",
+    "value": 37
+  },
+  {
+    "region": "Namibia",
+    "key": "English",
+    "value": 27
+  },
+  {
+    "region": "Namibia",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Nauru",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Nepal",
+    "key": "English",
+    "value": 53
+  },
+  {
+    "region": "Nepal",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Nepal",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Dutch",
+    "value": 429
+  },
+  {
+    "region": "Netherlands",
+    "key": "English",
+    "value": 5345
+  },
+  {
+    "region": "Netherlands",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "French",
+    "value": 23
+  },
+  {
+    "region": "Netherlands",
+    "key": "German",
+    "value": 13
+  },
+  {
+    "region": "Netherlands",
+    "key": "Indonesian",
+    "value": 31
+  },
+  {
+    "region": "Netherlands",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Norwegian",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Polish",
+    "value": 2
+  },
+  {
+    "region": "Netherlands",
+    "key": "Portuguese",
+    "value": 5
+  },
+  {
+    "region": "Netherlands",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Slovak",
+    "value": 1
+  },
+  {
+    "region": "Netherlands",
+    "key": "Spanish",
+    "value": 19
+  },
+  {
+    "region": "Netherlands Antilles",
+    "key": "English",
+    "value": 48
+  },
+  {
+    "region": "Netherlands Antilles",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "New Caledonia",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "New Caledonia",
+    "key": "French",
+    "value": 28
+  },
+  {
+    "region": "New Zealand",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "New Zealand",
+    "key": "Chinese",
+    "value": 3
+  },
+  {
+    "region": "New Zealand",
+    "key": "English",
+    "value": 5481
+  },
+  {
+    "region": "New Zealand",
+    "key": "French",
+    "value": 9
+  },
+  {
+    "region": "New Zealand",
+    "key": "German",
+    "value": 6
+  },
+  {
+    "region": "New Zealand",
+    "key": "Indonesian",
+    "value": 4
+  },
+  {
+    "region": "New Zealand",
+    "key": "Portuguese",
+    "value": 3
+  },
+  {
+    "region": "New Zealand",
+    "key": "Russian",
+    "value": 2
+  },
+  {
+    "region": "New Zealand",
+    "key": "Spanish",
+    "value": 7
+  },
+  {
+    "region": "Nicaragua",
+    "key": "English",
+    "value": 41
+  },
+  {
+    "region": "Nicaragua",
+    "key": "Latin",
+    "value": 5
+  },
+  {
+    "region": "Nicaragua",
+    "key": "Spanish",
+    "value": 150
+  },
+  {
+    "region": "Niger",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Nigeria",
+    "key": "English",
+    "value": 104
+  },
+  {
+    "region": "Nigeria",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Niue",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Northern Mariana Islands",
+    "key": "English",
+    "value": 29
+  },
+  {
+    "region": "Norway",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Norway",
+    "key": "English",
+    "value": 1931
+  },
+  {
+    "region": "Norway",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Norway",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "Norway",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "Norway",
+    "key": "Indonesian",
+    "value": 15
+  },
+  {
+    "region": "Norway",
+    "key": "Norwegian",
+    "value": 59
+  },
+  {
+    "region": "Norway",
+    "key": "Polish",
+    "value": 3
+  },
+  {
+    "region": "Norway",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Norway",
+    "key": "Spanish",
+    "value": 12
+  },
+  {
+    "region": "Norway",
+    "key": "Swedish",
+    "value": 3
+  },
+  {
+    "region": "Oman",
+    "key": "English",
+    "value": 44
+  },
+  {
+    "region": "Pakistan",
+    "key": "Afrikaans",
+    "value": 5
+  },
+  {
+    "region": "Pakistan",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Pakistan",
+    "key": "Arabic",
+    "value": 2
+  },
+  {
+    "region": "Pakistan",
+    "key": "Bulgarian",
+    "value": 3
+  },
+  {
+    "region": "Pakistan",
+    "key": "Catalan",
+    "value": 2
+  },
+  {
+    "region": "Pakistan",
+    "key": "English",
+    "value": 558
+  },
+  {
+    "region": "Pakistan",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Pakistan",
+    "key": "Hindi",
+    "value": 3
+  },
+  {
+    "region": "Palau",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Palau",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Palestinian Territory",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Palestinian Territory",
+    "key": "English",
+    "value": 8
+  },
+  {
+    "region": "Panama",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Panama",
+    "key": "English",
+    "value": 132
+  },
+  {
+    "region": "Panama",
+    "key": "Latin",
+    "value": 2
+  },
+  {
+    "region": "Panama",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Panama",
+    "key": "Spanish",
+    "value": 351
+  },
+  {
+    "region": "Papua New Guinea",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Paraguay",
+    "key": "English",
+    "value": 30
+  },
+  {
+    "region": "Paraguay",
+    "key": "Latin",
+    "value": 1
+  },
+  {
+    "region": "Paraguay",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Paraguay",
+    "key": "Spanish",
+    "value": 234
+  },
+  {
+    "region": "Peru",
+    "key": "Albanian",
+    "value": 2
+  },
+  {
+    "region": "Peru",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Peru",
+    "key": "Chinese",
+    "value": 1
+  },
+  {
+    "region": "Peru",
+    "key": "Czech",
+    "value": 1
+  },
+  {
+    "region": "Peru",
+    "key": "English",
+    "value": 341
+  },
+  {
+    "region": "Peru",
+    "key": "Esperanto",
+    "value": 4
+  },
+  {
+    "region": "Peru",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Peru",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Peru",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Peru",
+    "key": "Latin",
+    "value": 13
+  },
+  {
+    "region": "Peru",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Peru",
+    "key": "Spanish",
+    "value": 2650
+  },
+  {
+    "region": "Philippines",
+    "key": "Afrikaans",
+    "value": 2
+  },
+  {
+    "region": "Philippines",
+    "key": "Chinese",
+    "value": 2
+  },
+  {
+    "region": "Philippines",
+    "key": "Dutch",
+    "value": 3
+  },
+  {
+    "region": "Philippines",
+    "key": "English",
+    "value": 15927
+  },
+  {
+    "region": "Philippines",
+    "key": "Esperanto",
+    "value": 3
+  },
+  {
+    "region": "Philippines",
+    "key": "Filipino",
+    "value": 256
+  },
+  {
+    "region": "Philippines",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Philippines",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "Philippines",
+    "key": "Greek",
+    "value": 2
+  },
+  {
+    "region": "Philippines",
+    "key": "Indonesian",
+    "value": 6
+  },
+  {
+    "region": "Philippines",
+    "key": "Italian",
+    "value": 3
+  },
+  {
+    "region": "Philippines",
+    "key": "Japanese",
+    "value": 10
+  },
+  {
+    "region": "Philippines",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Philippines",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Philippines",
+    "key": "Spanish",
+    "value": 4
+  },
+  {
+    "region": "Philippines",
+    "key": "Vietnamese",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "Albanian",
+    "value": 2
+  },
+  {
+    "region": "Poland",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "English",
+    "value": 1582
+  },
+  {
+    "region": "Poland",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "French",
+    "value": 12
+  },
+  {
+    "region": "Poland",
+    "key": "German",
+    "value": 6
+  },
+  {
+    "region": "Poland",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Poland",
+    "key": "Polish",
+    "value": 2136
+  },
+  {
+    "region": "Poland",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Poland",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "Russian",
+    "value": 4
+  },
+  {
+    "region": "Poland",
+    "key": "Serbian",
+    "value": 1
+  },
+  {
+    "region": "Poland",
+    "key": "Spanish",
+    "value": 9
+  },
+  {
+    "region": "Poland",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "English",
+    "value": 1497
+  },
+  {
+    "region": "Portugal",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "French",
+    "value": 19
+  },
+  {
+    "region": "Portugal",
+    "key": "German",
+    "value": 4
+  },
+  {
+    "region": "Portugal",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "Portuguese",
+    "value": 749
+  },
+  {
+    "region": "Portugal",
+    "key": "Romanian",
+    "value": 1
+  },
+  {
+    "region": "Portugal",
+    "key": "Russian",
+    "value": 2
+  },
+  {
+    "region": "Portugal",
+    "key": "Spanish",
+    "value": 29
+  },
+  {
+    "region": "Puerto Rico",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Puerto Rico",
+    "key": "English",
+    "value": 960
+  },
+  {
+    "region": "Puerto Rico",
+    "key": "Spanish",
+    "value": 210
+  },
+  {
+    "region": "Qatar",
+    "key": "English",
+    "value": 154
+  },
+  {
+    "region": "Qatar",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Reunion",
+    "key": "English",
+    "value": 7
+  },
+  {
+    "region": "Reunion",
+    "key": "French",
+    "value": 57
+  },
+  {
+    "region": "Romania",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "Romania",
+    "key": "English",
+    "value": 1053
+  },
+  {
+    "region": "Romania",
+    "key": "Esperanto",
+    "value": 1
+  },
+  {
+    "region": "Romania",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "Romania",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Romania",
+    "key": "Hungarian",
+    "value": 12
+  },
+  {
+    "region": "Romania",
+    "key": "Indonesian",
+    "value": 4
+  },
+  {
+    "region": "Romania",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Romania",
+    "key": "Portuguese",
+    "value": 3
+  },
+  {
+    "region": "Romania",
+    "key": "Romanian",
+    "value": 61
+  },
+  {
+    "region": "Romania",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Romania",
+    "key": "Spanish",
+    "value": 23
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Albanian",
+    "value": 3
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "Russian Federation",
+    "key": "English",
+    "value": 717
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Esperanto",
+    "value": 2
+  },
+  {
+    "region": "Russian Federation",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "Russian Federation",
+    "key": "German",
+    "value": 3
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Indonesian",
+    "value": 15
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Portuguese",
+    "value": 4
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Russian",
+    "value": 494
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Spanish",
+    "value": 17
+  },
+  {
+    "region": "Russian Federation",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Rwanda",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Rwanda",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Saint Pierre and Miquelon",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Saint Helena",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Saint Kitts and Nevis",
+    "key": "English",
+    "value": 23
+  },
+  {
+    "region": "Saint Kitts and Nevis",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Saint Lucia",
+    "key": "English",
+    "value": 24
+  },
+  {
+    "region": "Saint Martin",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Saint Vincent and the",
+    "key": "",
+    "value": ""
+  },
+  {
+    "region": "Grenadines",
+    "key": "English",
+    "value": 22
+  },
+  {
+    "region": "Samoa",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "San Marino",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Satellite Provider",
+    "key": "English",
+    "value": 29
+  },
+  {
+    "region": "Satellite Provider",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Satellite Provider",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Satellite Provider",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Satellite Provider",
+    "key": "Spanish",
+    "value": 5
+  },
+  {
+    "region": "Saudi Arabia",
+    "key": "Arabic",
+    "value": 3
+  },
+  {
+    "region": "Saudi Arabia",
+    "key": "English",
+    "value": 229
+  },
+  {
+    "region": "Saudi Arabia",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Saudi Arabia",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Saudi Arabia",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Senegal",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Senegal",
+    "key": "French",
+    "value": 10
+  },
+  {
+    "region": "Serbia and Montenegro",
+    "key": "English",
+    "value": 234
+  },
+  {
+    "region": "Serbia and Montenegro",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Serbia and Montenegro",
+    "key": "Hungarian",
+    "value": 2
+  },
+  {
+    "region": "Serbia and Montenegro",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Serbia and Montenegro",
+    "key": "Serbian",
+    "value": 4
+  },
+  {
+    "region": "Seychelles",
+    "key": "English",
+    "value": 9
+  },
+  {
+    "region": "Sierra Leone",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Afrikaans",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Catalan",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Chinese",
+    "value": 25
+  },
+  {
+    "region": "Singapore",
+    "key": "English",
+    "value": 5722
+  },
+  {
+    "region": "Singapore",
+    "key": "Esperanto",
+    "value": 3
+  },
+  {
+    "region": "Singapore",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Singapore",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Singapore",
+    "key": "Indonesian",
+    "value": 224
+  },
+  {
+    "region": "Singapore",
+    "key": "Japanese",
+    "value": 3
+  },
+  {
+    "region": "Singapore",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Malay",
+    "value": 3
+  },
+  {
+    "region": "Singapore",
+    "key": "Norwegian",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "Singapore",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Slovakia",
+    "key": "Czech",
+    "value": 20
+  },
+  {
+    "region": "Slovakia",
+    "key": "English",
+    "value": 259
+  },
+  {
+    "region": "Slovakia",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Slovakia",
+    "key": "Hungarian",
+    "value": 13
+  },
+  {
+    "region": "Slovakia",
+    "key": "Slovak",
+    "value": 22
+  },
+  {
+    "region": "Slovakia",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Slovenia",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "Slovenia",
+    "key": "English",
+    "value": 267
+  },
+  {
+    "region": "Slovenia",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Slovenia",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Slovenia",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Slovenia",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Solomon Islands",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Somalia",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "South Africa",
+    "key": "Afrikaans",
+    "value": 4
+  },
+  {
+    "region": "South Africa",
+    "key": "English",
+    "value": 1668
+  },
+  {
+    "region": "South Africa",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "South Africa",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "South Africa",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "South Africa",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "South Africa",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "South Georgia and the South Sandwich Islands",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Spain",
+    "key": "Afrikaans",
+    "value": 3
+  },
+  {
+    "region": "Spain",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Catalan",
+    "value": 62
+  },
+  {
+    "region": "Spain",
+    "key": "Chinese",
+    "value": 2
+  },
+  {
+    "region": "Spain",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "English",
+    "value": 1917
+  },
+  {
+    "region": "Spain",
+    "key": "Esperanto",
+    "value": 5
+  },
+  {
+    "region": "Spain",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Filipino",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Finnish",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "French",
+    "value": 52
+  },
+  {
+    "region": "Spain",
+    "key": "German",
+    "value": 14
+  },
+  {
+    "region": "Spain",
+    "key": "Indonesian",
+    "value": 3
+  },
+  {
+    "region": "Spain",
+    "key": "Italian",
+    "value": 4
+  },
+  {
+    "region": "Spain",
+    "key": "Korean",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Norwegian",
+    "value": 1
+  },
+  {
+    "region": "Spain",
+    "key": "Polish",
+    "value": 5
+  },
+  {
+    "region": "Spain",
+    "key": "Portuguese",
+    "value": 10
+  },
+  {
+    "region": "Spain",
+    "key": "Russian",
+    "value": 2
+  },
+  {
+    "region": "Spain",
+    "key": "Spanish",
+    "value": 10721
+  },
+  {
+    "region": "Spain",
+    "key": "Swedish",
+    "value": 3
+  },
+  {
+    "region": "Spain",
+    "key": "Thai",
+    "value": 1
+  },
+  {
+    "region": "Sri Lanka",
+    "key": "English",
+    "value": 144
+  },
+  {
+    "region": "Sudan",
+    "key": "English",
+    "value": 6
+  },
+  {
+    "region": "Suriname",
+    "key": "English",
+    "value": 17
+  },
+  {
+    "region": "Suriname",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Svalbard and Jan Mayen",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Swaziland",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Sweden",
+    "key": "Bulgarian",
+    "value": 1
+  },
+  {
+    "region": "Sweden",
+    "key": "Dutch",
+    "value": 3
+  },
+  {
+    "region": "Sweden",
+    "key": "English",
+    "value": 4413
+  },
+  {
+    "region": "Sweden",
+    "key": "French",
+    "value": 8
+  },
+  {
+    "region": "Sweden",
+    "key": "German",
+    "value": 5
+  },
+  {
+    "region": "Sweden",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Sweden",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Sweden",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Sweden",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Sweden",
+    "key": "Spanish",
+    "value": 21
+  },
+  {
+    "region": "Sweden",
+    "key": "Swedish",
+    "value": 508
+  },
+  {
+    "region": "Switzerland",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Switzerland",
+    "key": "Chinese",
+    "value": 2
+  },
+  {
+    "region": "Switzerland",
+    "key": "English",
+    "value": 596
+  },
+  {
+    "region": "Switzerland",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Switzerland",
+    "key": "French",
+    "value": 476
+  },
+  {
+    "region": "Switzerland",
+    "key": "German",
+    "value": 156
+  },
+  {
+    "region": "Switzerland",
+    "key": "Indonesian",
+    "value": 2
+  },
+  {
+    "region": "Switzerland",
+    "key": "Italian",
+    "value": 4
+  },
+  {
+    "region": "Switzerland",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Switzerland",
+    "key": "Portuguese",
+    "value": 7
+  },
+  {
+    "region": "Switzerland",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Switzerland",
+    "key": "Spanish",
+    "value": 13
+  },
+  {
+    "region": "Switzerland",
+    "key": "Turkish",
+    "value": 1
+  },
+  {
+    "region": "Switzerland",
+    "key": "Vietnamese",
+    "value": 1
+  },
+  {
+    "region": "Syrian Arab Revar",
+    "key": "Arabic",
+    "value": 1
+  },
+  {
+    "region": "Syrian Arab Revar",
+    "key": "English",
+    "value": 22
+  },
+  {
+    "region": "Syrian Arab Revar",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Taiwan",
+    "key": "Chinese",
+    "value": 13
+  },
+  {
+    "region": "Taiwan",
+    "key": "English",
+    "value": 363
+  },
+  {
+    "region": "Taiwan",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Taiwan",
+    "key": "Indonesian",
+    "value": 13
+  },
+  {
+    "region": "Taiwan",
+    "key": "Spanish",
+    "value": 4
+  },
+  {
+    "region": "Tajikistan",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Tanzania  United Republic of",
+    "key": "English",
+    "value": 12
+  },
+  {
+    "region": "Tanzania United Republic of",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "English",
+    "value": 550
+  },
+  {
+    "region": "Thailand",
+    "key": "French",
+    "value": 5
+  },
+  {
+    "region": "Thailand",
+    "key": "German",
+    "value": 2
+  },
+  {
+    "region": "Thailand",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Thailand",
+    "key": "Thai",
+    "value": 8
+  },
+  {
+    "region": "Togo",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Togo",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Tokelau",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Tokelau",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Trinidad and Tobago",
+    "key": "English",
+    "value": 415
+  },
+  {
+    "region": "Trinidad and Tobago",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Tunisia",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Tunisia",
+    "key": "English",
+    "value": 51
+  },
+  {
+    "region": "Tunisia",
+    "key": "French",
+    "value": 34
+  },
+  {
+    "region": "Tunisia",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Tunisia",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Turkey",
+    "key": "English",
+    "value": 351
+  },
+  {
+    "region": "Turkey",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "Turkey",
+    "key": "French",
+    "value": 5
+  },
+  {
+    "region": "Turkey",
+    "key": "German",
+    "value": 4
+  },
+  {
+    "region": "Turkey",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Turkey",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "Turkey",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Turkey",
+    "key": "Turkish",
+    "value": 39
+  },
+  {
+    "region": "Turkmenistan",
+    "key": "English",
+    "value": 1
+  },
+  {
+    "region": "Turkmenistan",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Turks and Caicos Islands",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Tuvalu",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Tuvalu",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "Uganda",
+    "key": "English",
+    "value": 14
+  },
+  {
+    "region": "Uganda",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Afrikaans",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Albanian",
+    "value": 4
+  },
+  {
+    "region": "UK",
+    "key": "Arabic",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Bulgarian",
+    "value": 4
+  },
+  {
+    "region": "UK",
+    "key": "Catalan",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Chinese",
+    "value": 5
+  },
+  {
+    "region": "UK",
+    "key": "Croatian",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Czech",
+    "value": 4
+  },
+  {
+    "region": "UK",
+    "key": "Danish",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Dutch",
+    "value": 21
+  },
+  {
+    "region": "UK",
+    "key": "English",
+    "value": 83508
+  },
+  {
+    "region": "UK",
+    "key": "Esperanto",
+    "value": 8
+  },
+  {
+    "region": "UK",
+    "key": "Estonian",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Filipino",
+    "value": 3
+  },
+  {
+    "region": "UK",
+    "key": "Finnish",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "French",
+    "value": 282
+  },
+  {
+    "region": "UK",
+    "key": "German",
+    "value": 62
+  },
+  {
+    "region": "UK",
+    "key": "Greek",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Hebrew",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Hindi",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Hungarian",
+    "value": 8
+  },
+  {
+    "region": "UK",
+    "key": "Indonesian",
+    "value": 85
+  },
+  {
+    "region": "UK",
+    "key": "Italian",
+    "value": 16
+  },
+  {
+    "region": "UK",
+    "key": "Japanese",
+    "value": 7
+  },
+  {
+    "region": "UK",
+    "key": "Korean",
+    "value": 2
+  },
+  {
+    "region": "UK",
+    "key": "Latin",
+    "value": 3
+  },
+  {
+    "region": "UK",
+    "key": "Polish",
+    "value": 37
+  },
+  {
+    "region": "UK",
+    "key": "Portuguese",
+    "value": 42
+  },
+  {
+    "region": "UK",
+    "key": "Punjabi",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Romanian",
+    "value": 3
+  },
+  {
+    "region": "UK",
+    "key": "Russian",
+    "value": 4
+  },
+  {
+    "region": "UK",
+    "key": "Serbian",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Slovak",
+    "value": 1
+  },
+  {
+    "region": "UK",
+    "key": "Spanish",
+    "value": 237
+  },
+  {
+    "region": "UK",
+    "key": "Swedish",
+    "value": 9
+  },
+  {
+    "region": "UK",
+    "key": "Turkish",
+    "value": 2
+  },
+  {
+    "region": "Ukraine",
+    "key": "English",
+    "value": 159
+  },
+  {
+    "region": "Ukraine",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Ukraine",
+    "key": "Hungarian",
+    "value": 1
+  },
+  {
+    "region": "Ukraine",
+    "key": "Polish",
+    "value": 1
+  },
+  {
+    "region": "Ukraine",
+    "key": "Portuguese",
+    "value": 1
+  },
+  {
+    "region": "Ukraine",
+    "key": "Russian",
+    "value": 82
+  },
+  {
+    "region": "Ukraine",
+    "key": "Spanish",
+    "value": 5
+  },
+  {
+    "region": "Ukraine",
+    "key": "Ukrainian",
+    "value": 1
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "English",
+    "value": 622
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "French",
+    "value": 7
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "Indonesian",
+    "value": 1
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "Japanese",
+    "value": 1
+  },
+  {
+    "region": "United Arab Emirates",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Uruguay",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Uruguay",
+    "key": "English",
+    "value": 96
+  },
+  {
+    "region": "Uruguay",
+    "key": "French",
+    "value": 2
+  },
+  {
+    "region": "Uruguay",
+    "key": "Latin",
+    "value": 2
+  },
+  {
+    "region": "Uruguay",
+    "key": "Portuguese",
+    "value": 3
+  },
+  {
+    "region": "Uruguay",
+    "key": "Spanish",
+    "value": 448
+  },
+  {
+    "region": "USA",
+    "key": "Afrikaans",
+    "value": 36
+  },
+  {
+    "region": "USA",
+    "key": "Albanian",
+    "value": 25
+  },
+  {
+    "region": "USA",
+    "key": "Arabic",
+    "value": 18
+  },
+  {
+    "region": "USA",
+    "key": "Bulgarian",
+    "value": 9
+  },
+  {
+    "region": "USA",
+    "key": "Catalan",
+    "value": 7
+  },
+  {
+    "region": "USA",
+    "key": "Chinese",
+    "value": 58
+  },
+  {
+    "region": "USA",
+    "key": "Croatian",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Czech",
+    "value": 8
+  },
+  {
+    "region": "USA",
+    "key": "Danish",
+    "value": 11
+  },
+  {
+    "region": "USA",
+    "key": "Devanagari",
+    "value": 12
+  },
+  {
+    "region": "USA",
+    "key": "Dutch",
+    "value": 59
+  },
+  {
+    "region": "USA",
+    "key": "English",
+    "value": 492970
+  },
+  {
+    "region": "USA",
+    "key": "Esperanto",
+    "value": 80
+  },
+  {
+    "region": "USA",
+    "key": "Estonian",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Farsi",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Filipino",
+    "value": 18
+  },
+  {
+    "region": "USA",
+    "key": "Finnish",
+    "value": 9
+  },
+  {
+    "region": "USA",
+    "key": "French",
+    "value": 360
+  },
+  {
+    "region": "USA",
+    "key": "German",
+    "value": 96
+  },
+  {
+    "region": "USA",
+    "key": "Greek",
+    "value": 11
+  },
+  {
+    "region": "USA",
+    "key": "Hebrew",
+    "value": 7
+  },
+  {
+    "region": "USA",
+    "key": "Hindi",
+    "value": 13
+  },
+  {
+    "region": "USA",
+    "key": "Hungarian",
+    "value": 8
+  },
+  {
+    "region": "USA",
+    "key": "Icelandic",
+    "value": 1
+  },
+  {
+    "region": "USA",
+    "key": "Indonesian",
+    "value": 2926
+  },
+  {
+    "region": "USA",
+    "key": "Italian",
+    "value": 27
+  },
+  {
+    "region": "USA",
+    "key": "Japanese",
+    "value": 98
+  },
+  {
+    "region": "USA",
+    "key": "Korean",
+    "value": 5
+  },
+  {
+    "region": "USA",
+    "key": "Latin",
+    "value": 22
+  },
+  {
+    "region": "USA",
+    "key": "Malay",
+    "value": 2
+  },
+  {
+    "region": "USA",
+    "key": "Norwegian",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Polish",
+    "value": 16
+  },
+  {
+    "region": "USA",
+    "key": "Portuguese",
+    "value": 136
+  },
+  {
+    "region": "USA",
+    "key": "Punjabi",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Romanian",
+    "value": 5
+  },
+  {
+    "region": "USA",
+    "key": "Russian",
+    "value": 37
+  },
+  {
+    "region": "USA",
+    "key": "Serbian",
+    "value": 6
+  },
+  {
+    "region": "USA",
+    "key": "Slovak",
+    "value": 1
+  },
+  {
+    "region": "USA",
+    "key": "Spanish",
+    "value": 1699
+  },
+  {
+    "region": "USA",
+    "key": "Swedish",
+    "value": 16
+  },
+  {
+    "region": "USA",
+    "key": "Thai",
+    "value": 5
+  },
+  {
+    "region": "USA",
+    "key": "Turkish",
+    "value": 4
+  },
+  {
+    "region": "USA",
+    "key": "Ukrainian",
+    "value": 2
+  },
+  {
+    "region": "USA",
+    "key": "Vietnamese",
+    "value": 11
+  },
+  {
+    "region": "Uzbekistan",
+    "key": "English",
+    "value": 11
+  },
+  {
+    "region": "Uzbekistan",
+    "key": "Russian",
+    "value": 1
+  },
+  {
+    "region": "Vanuatu",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Vanuatu",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Vatican",
+    "key": "English",
+    "value": 5
+  },
+  {
+    "region": "Vatican",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Venezuela",
+    "key": "Albanian",
+    "value": 1
+  },
+  {
+    "region": "Venezuela",
+    "key": "English",
+    "value": 372
+  },
+  {
+    "region": "Venezuela",
+    "key": "Esperanto",
+    "value": 4
+  },
+  {
+    "region": "Venezuela",
+    "key": "French",
+    "value": 3
+  },
+  {
+    "region": "Venezuela",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Venezuela",
+    "key": "Latin",
+    "value": 13
+  },
+  {
+    "region": "Venezuela",
+    "key": "Portuguese",
+    "value": 2
+  },
+  {
+    "region": "Venezuela",
+    "key": "Spanish",
+    "value": 3351
+  },
+  {
+    "region": "Venezuela",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "Devanagari",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "Dutch",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "English",
+    "value": 479
+  },
+  {
+    "region": "Vietnam",
+    "key": "Farsi",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "French",
+    "value": 5
+  },
+  {
+    "region": "Vietnam",
+    "key": "German",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "Russian",
+    "value": 3
+  },
+  {
+    "region": "Vietnam",
+    "key": "Slovak",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "Spanish",
+    "value": 2
+  },
+  {
+    "region": "Vietnam",
+    "key": "Swedish",
+    "value": 1
+  },
+  {
+    "region": "Vietnam",
+    "key": "Vietnamese",
+    "value": 110
+  },
+  {
+    "region": "Virgin Islands British",
+    "key": "English",
+    "value": 29
+  },
+  {
+    "region": "Virgin Islands British",
+    "key": "Spanish",
+    "value": 3
+  },
+  {
+    "region": "Virgin Islands US",
+    "key": "English",
+    "value": 60
+  },
+  {
+    "region": "Wallis and Futuna",
+    "key": "English",
+    "value": 3
+  },
+  {
+    "region": "Wallis and Futuna",
+    "key": "Italian",
+    "value": 1
+  },
+  {
+    "region": "Wallis and Futuna",
+    "key": "Spanish",
+    "value": 1
+  },
+  {
+    "region": "Western Sahara",
+    "key": "English",
+    "value": 4
+  },
+  {
+    "region": "Western Sahara",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Yemen",
+    "key": "English",
+    "value": 2
+  },
+  {
+    "region": "Zaire",
+    "key": "English",
+    "value": 17
+  },
+  {
+    "region": "Zambia",
+    "key": "English",
+    "value": 20
+  },
+  {
+    "region": "Zimbabwe",
+    "key": "English",
+    "value": 24
+  },
+  {
+    "region": "Zimbabwe",
+    "key": "French",
+    "value": 1
+  },
+  {
+    "region": "Zimbabwe",
+    "key": "Hindi",
+    "value": 1
+  },
+  {
+    "region": "Zimbabwe",
+    "key": "Spanish",
+    "value": 1
+  }
+]

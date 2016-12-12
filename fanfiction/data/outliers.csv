@@ -1,0 +1,23 @@
+id,value
+Users,
+Users.Country not mentioned,
+Users.Country not mentioned.English,533376
+Users.Country not mentioned.French,7713
+Users.Country not mentioned.German,3672
+Users.Country not mentioned.Indonesian,6431
+Users.Country not mentioned.Portuguese,4845
+Users.Country not mentioned.Spanish,20055
+Users.Country not mentioned.Others,2603
+Users.USA,
+Users.USA.Chinese,58
+Users.USA.Dutch,59
+Users.USA.English,492970
+Users.USA.Esperanto,80
+Users.USA.French,360
+Users.USA.German,96
+Users.USA.Indonesian,2926
+Users.USA.Japanese,98
+Users.USA.Portuguese,136
+Users.USA.Russian,37
+Users.USA.Spanish,1699
+Users.USA.Others,339

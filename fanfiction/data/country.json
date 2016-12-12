@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Bahrain",
+    "region": "Asia",
+    "value": 1234571
+  },
+  {
+    "key": "Bangladesh",
+    "region": "Asia",
+    "value": 152518015
+  },
+  {
+    "key": "Barbados",
+    "region": "Americas",
+    "value": 274200
+  },
+  {
+    "key": "Belarus",
+    "region": "Europe",
+    "value": 9465500
+  },
+  {
+    "key": "Belgium",
+    "region": "Europe",
+    "value": 11175653
+  },
+  {
+    "key": "Belize",
+    "region": "Americas",
+    "value": 312971
+  },
+  {
+    "key": "Benin",
+    "region": "Africa",
+    "value": 10323000
+  },
+  {
+    "key": "Bermuda",
+    "region": "Americas",
+    "value": 64237
+  }
+]

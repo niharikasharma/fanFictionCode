@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    	<meta charset="utf-8" />
+    	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    	<title>Data Visulization - 511A</title>
+
+        <!-- Favicon -->
+    	<link rel="shortcut icon" href="favicon.ico" />
+
+        <!-- CSS -->
+    	<link rel="stylesheet" media="screen" href="css/style.css" />
+        <link rel="stylesheet" media="screen" href="css/main.css" />
+
+
+        <!-- Javascript -->
+    	<script src="js/jquery.min.js"></script>
+    	<script src="js/jquery.appear-1.1.1.min.js"></script>
+    	<script src="js/tooltip.js"></script>    
+    	<script src="js/odds.js"></script>
+
+        <!-- D3.js JS -->
+        <script type="text/javascript" src='https://d3js.org/d3.v3.min.js'></script>
+        <!--script type="text/javascript" src="http://d3js.org/d3.v4.0.0-alpha.35.min.js"></script-->
+
+        <!-- Custom JS -->
+        <script type="text/javascript" src='graphs/treemap.js'></script>
+        <script type="text/javascript" src='graphs/treemapStory.js'></script>
+        
+       
+    </head>
+    <body style="background-color: #1269B8;">
+    <div id="fb-root"></div>
+
+        <div id="site">
+            <a class="logo" href="#" title="Data Visualization 511A">
+                <span class="hidden">University of Washington - Data Visualization 511A</span>
+            </a>
+            
+            <!--div class="evening-sky"></div>
+            <div class="morning-sky"></div-->        
+            <section class="sky" style="background-color: #1269B8 !important; ">
+                <span class="hidden"></span></a>
+                <div class="site-width">
+                    <header>
+                        <h1><span class="hidden">The Interactive Fan Fiction Data Visualisation Guide</span></h1>
+                        <p>As of November 2016, FanFiction.net has 1.5 million active users on the portal. Since its launch in 1998, they have written more than 6.5 million stories in aggregate. Contesting in 44 different languages, an approximate of 10 thousand fandoms are written on a daily basis. We have decided to focus on the aspect of distributed mentorship between authors on this data rich platform.</p>
+                        <!--p><a class="cta" href="#">View the Statistics</a></p-->
+                    </header>
+                    <!--h2 class="primary"><span class="hidden">Treemap Graph</span></h2-->
+
+                    <div class="loader" style="text-align: center;">
+                        <img src="img/loader.gif"
+                            style="height: 75px;">
+                            <div style="color: #ffffff;
+                                        font-family: 'proxima-nova', Arial;
+                                        font-weight: 700;
+                                        font-size: 1.4em;
+                                        margin-top: 5px;">Loading ...</div>
+                    </div>  
+
+                    <div class="body-content" style="opacity: 0;">
+                        <div>
+                            <span style="width: 35%; float: left;">
+                                <img src="img/pc1.png">
+                            </span>
+                            <span style="width: 65%; 
+                                            float: right;
+                                            color: #ffffff;
+                                            font-family: 'proxima-nova', Arial;
+                                            font-weight: 700;
+                                            font-size: 1.2em;
+                                            margin-top: 5px;">
+                                This treemap is used to provide an overview of 1.5 million user’s data on Fanfiction.net. The treemap shows the locations of users broken down by their language.
+                            </span>
+                        </div>
+                        <div class="graph_treemap">
+                            <div id="chart"><!-- Treemap Comes Here --></div>
+                        </div>
+
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <hr/>
+                        <br/>
+                        <br/>
+
+                        <div>
+                            <span style="width: 35%; float: left;">
+                                <img src="img/pc2.png">
+                            </span>
+                            <span style="width: 65%; 
+                                            float: right;
+                                            color: #ffffff;
+                                            font-family: 'proxima-nova', Arial;
+                                            font-weight: 700;
+                                            font-size: 1.2em;
+                                            margin-top: 5px;">
+                                This treemap is used to provide an overview of more than 6 million stories that users write/publish on Fanfiction.net. The treemap shows the categories of stories broken down by fandoms.
+                            </span>
+                        </div>
+                        <div class="graph_treemap">
+                            <div id="chart2"><!-- Treemap Comes Here --></div>
+                        </div>
+                                                <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <hr/>
+                        <br/>
+                        <br/>
+
+                        <!--div style="background: white; padding: 10px; font-size: 15px;">
+                           Check out more: <a href="https://public.tableau.com/profile/khyati.parekh#!/vizhome/shared/6W5JKZ6R3" style="color: blue;" target="_blank">Tableau Chart Link</a>
+                        </div>
+                        
+                                                <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/-->
+
+                    </div>                    
+                </div>
+            </section>
+    	</div><!-- /#site -->
+    </body>
+</html>
